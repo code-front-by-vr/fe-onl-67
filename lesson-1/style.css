@@ -1,3 +1,10 @@
 h1 {
-    font-size: 18px;
+    color: red;
+    font-size: 40px;
 }
+p {
+    color: grey;
+    font-size: 28px;
+    margin-top: 32px;
+}
+
